@@ -1,5 +1,5 @@
-// # Ghost bootloader
+// # Ghost bootloader for Azure Websites
 // Orchestrates the loading of Ghost
-// When run from command line.
+// when deploying on Windows Azure
 
 var GhostServer = require('./index');
