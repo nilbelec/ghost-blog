@@ -1,4 +1,4 @@
 ghost-blog
 ==========
 
-This is just my Ghost blog installation on Windows Azure
+My custom [Ghost](http://ghost.org) installation for Azure Websites
